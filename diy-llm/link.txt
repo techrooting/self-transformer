@@ -2,3 +2,4 @@
 中文文档：https://datawhalechina.github.io/diy-llm/
 仓库代码：https://github.com/datawhalechina/diy-llm
 离线版本：https://github.com/datawhalechina/diy-llm/releases/tag/V0.2
+分词器连接：https://tiktokenizer.vercel.app/?model=deepseek-ai%2FDeepSeek-R1
