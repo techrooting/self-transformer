@@ -1,0 +1,4 @@
+微信公众号推文 https://mp.weixin.qq.com/s/iot0LIrh2R5s5a17emBhJQ
+中文文档：https://datawhalechina.github.io/diy-llm/
+仓库代码：https://github.com/datawhalechina/diy-llm
+离线版本：https://github.com/datawhalechina/diy-llm/releases/tag/V0.2
